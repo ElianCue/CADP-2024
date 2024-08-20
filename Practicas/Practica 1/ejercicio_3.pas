@@ -4,6 +4,16 @@ var
     num1, num2, num3 : integer;
 
 begin
+
+    // Se cargan los 3 numeros enteros
+
+    writeln('Ingrese tres numeros enteros:');
+    read(num1);
+    read(num2);
+    read(num3);
+
+    // Se ordenan los numeros de menor a mayor
+
     if(num1 > num2) and (num1 > num3) then
         if(num2 > num3) then
             writeln(num1, num2, num3)
