@@ -1,7 +1,3 @@
-Claro, aquí tienes una versión extendida del README:
-
----
-
 ### Hola 👋, mi nombre es Elian
 
 #### Bienvenidos a mi repositorio de Pascal para la materia CADP en la UNLP
